@@ -1,0 +1,11 @@
+//= App Texts
+const String tSplashTitle = "Be aware\nStay healthy";
+const String tSplashSubTitle = "Welcome to COVID-19 information portal.";
+const String tCOnfirmed = "Confirmed";
+const String tDeath = "Death";
+const String tLatest = "Latest";
+const String tTotal = "Total Death";
+const String tPreventions = "Preventions";
+const String tWash = "Wash Hands";
+const String tMask = "Use Masks";
+const String tClean = "Clean Disinfect";
